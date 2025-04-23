@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Medications</string>
+    <string name="salvar">Save</string>
+    <string name="nome_medicamento">Medicine name</string>
+    <string name="descricao">Description</string>
+    <string name="horario">Time (HH:mm)</string>
+    <string name="marcar_tomado">Mark as Taken</string>
+</resources>
